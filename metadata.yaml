@@ -1,5 +1,8 @@
 _repo: La-marchande-de-petits-pains-pour-les-canards_63647
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63647-h/images/cover.jpg
 creator:
   author:
     agent_name: Boylesve, René
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
     - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63647#La-marchande-de-petits-pains-pour-les-canards
 gutenberg_issued: '2020-11-06'
 gutenberg_type: Text
 identifiers:
